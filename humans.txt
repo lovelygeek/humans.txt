@@ -14,7 +14,7 @@ Humans.txt
 	Adobe Creative Suite
 	Sketch
 	Mishka, Brandon Grotesque, Jubilat, Font Awesome
-	Bones for WordPress
+	Plate WordPress Theme
 	Coda
 	CodeKit
 	Transmit
@@ -22,6 +22,7 @@ Humans.txt
 	
 /* SITE */
 	Launched: September 5, 2016
+	Modified: June 1, 2018
 	Standards: HTML5, Sass, CSS 1|2|3, PHP
 	Components: WordPress, Modernizr, jQuery
 	Browser Support: IE11, Firefox, Chrome, Safari, etc. plus responsive layout tested on iPhone/iPad/Desktop
